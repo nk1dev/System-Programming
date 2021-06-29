@@ -1,0 +1,4 @@
+﻿  S006.cpp
+C:\Users\Марго\source\repos\S006\S006\S006.cpp(21): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\Марго\source\repos\S006\S006\S006.cpp(49): warning C4405: str: идентификатор является зарезервированным словом
+  S006.vcxproj -> C:\Users\Марго\source\repos\S006\Debug\S006.exe
