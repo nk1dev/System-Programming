@@ -1,0 +1,3 @@
+﻿  Collection.cpp
+C:\Users\MrNik\Documents\GitHub\System-Programming\Задание к коллекциям\Collection\Collection.cpp(133): warning C4715: ListPeoples::Get: значение возвращается не при всех путях выполнения
+  Collection.vcxproj -> C:\Users\MrNik\Documents\GitHub\System-Programming\Задание к коллекциям\x64\Debug\Collection.exe

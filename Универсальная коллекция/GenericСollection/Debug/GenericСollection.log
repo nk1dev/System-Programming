@@ -1,0 +1,4 @@
+﻿  GenericСollection.cpp
+C:\Users\MrNik\Downloads\работы\работы\GenericСollection\GenericСollection\GenericСollection.cpp(165): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\MrNik\Downloads\работы\работы\GenericСollection\GenericСollection\GenericСollection.cpp(165): warning C4715: List<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator[]: значение возвращается не при всех путях выполнения
+  GenericСollection.vcxproj -> C:\Users\MrNik\Downloads\работы\работы\GenericСollection\Debug\GenericСollection.exe

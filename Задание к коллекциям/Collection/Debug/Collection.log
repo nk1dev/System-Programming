@@ -1,0 +1,3 @@
+﻿  Collection.cpp
+C:\Users\Марго\source\repos\Collection\Collection\Collection.cpp(133): warning C4715: ListPeoples::Get: значение возвращается не при всех путях выполнения
+  Collection.vcxproj -> C:\Users\Марго\source\repos\Collection\Debug\Collection.exe
