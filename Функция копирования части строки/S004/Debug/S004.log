@@ -1,0 +1,8 @@
+﻿  S004.cpp
+C:\Users\Марго\source\repos\S004\S004\S004.cpp(19): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\Марго\source\repos\S004\S004\S004.cpp(90): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\Марго\source\repos\S004\S004\S004.cpp(129): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\Марго\source\repos\S004\S004\S004.cpp(102,13): warning C4102: StartCopy: неиспользованная метка
+C:\Users\Марго\source\repos\S004\S004\S004.cpp(112,1): warning C4102: IndexCopyBiggerDlinaCopygth: неиспользованная метка
+C:\Users\Марго\source\repos\S004\S004\S004.cpp(118,1): warning C4102: CheckDlinaCopygthCopy: неиспользованная метка
+  S004.vcxproj -> C:\Users\Марго\source\repos\S004\Debug\S004.exe
