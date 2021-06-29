@@ -1,0 +1,8 @@
+﻿  SOO3.cpp
+C:\Users\Марго\source\repos\SOO3\SOO3\SOO3.cpp(21): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\Марго\source\repos\SOO3\SOO3\SOO3.cpp(88): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\Марго\source\repos\SOO3\SOO3\SOO3.cpp(119): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\Марго\source\repos\SOO3\SOO3\SOO3.cpp(162): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\Марго\source\repos\SOO3\SOO3\SOO3.cpp(100,13): warning C4102: StartDelete: неиспользованная метка
+C:\Users\Марго\source\repos\SOO3\SOO3\SOO3.cpp(110,1): warning C4102: StrIndexBiggerStrDlinagth: неиспользованная метка
+  SOO3.vcxproj -> C:\Users\Марго\source\repos\SOO3\Debug\SOO3.exe
